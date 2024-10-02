@@ -1,0 +1,17 @@
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\bin\Debug\net8.0\Cafe.DataAcces.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\bin\Debug\net8.0\Cafe.DataAcces.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\bin\Debug\net8.0\Cafe.DataAcces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\bin\Debug\net8.0\Cafe.DataAcces.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\bin\Debug\net8.0\Cafe.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\bin\Debug\net8.0\Cafe.Entities.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\obj\Debug\net8.0\Cafe.DataAcces.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\obj\Debug\net8.0\Cafe.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\obj\Debug\net8.0\Cafe.DataAcces.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\obj\Debug\net8.0\Cafe.DataAcces.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\obj\Debug\net8.0\Cafe.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\obj\Debug\net8.0\Cafe.Dat.9F1C5597.Up2Date
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\obj\Debug\net8.0\Cafe.DataAcces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\obj\Debug\net8.0\refint\Cafe.DataAcces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\obj\Debug\net8.0\Cafe.DataAcces.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\obj\Debug\net8.0\Cafe.DataAcces.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.DataAcces\obj\Debug\net8.0\ref\Cafe.DataAcces.dll

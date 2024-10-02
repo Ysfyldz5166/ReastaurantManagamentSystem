@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|Cafe.BusinessLogic\\Cafe.BusinessLogic.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.businesslogic\\handler\\users\\commandhandler\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|Cafe.BusinessLogic\\Cafe.BusinessLogic.csproj|solutionrelative:cafe.businesslogic\\handler\\users\\commandhandler\\updateusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|Cafe.Api\\Cafe.Api.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|Cafe.Api\\Cafe.Api.csproj|solutionrelative:cafe.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|Cafe.BusinessLogic\\Cafe.BusinessLogic.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.businesslogic\\handler\\users\\querieshandler\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|Cafe.BusinessLogic\\Cafe.BusinessLogic.csproj|solutionrelative:cafe.businesslogic\\handler\\users\\querieshandler\\getuserbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|Cafe.BusinessLogic\\Cafe.BusinessLogic.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.businesslogic\\command\\users\\queries\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|Cafe.BusinessLogic\\Cafe.BusinessLogic.csproj|solutionrelative:cafe.businesslogic\\command\\users\\queries\\getuserbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|Cafe.BusinessLogic\\Cafe.BusinessLogic.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.businesslogic\\command\\users\\queries\\getuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|Cafe.BusinessLogic\\Cafe.BusinessLogic.csproj|solutionrelative:cafe.businesslogic\\command\\users\\queries\\getuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|Cafe.BusinessLogic\\Cafe.BusinessLogic.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.businesslogic\\handler\\users\\querieshandler\\getusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|Cafe.BusinessLogic\\Cafe.BusinessLogic.csproj|solutionrelative:cafe.businesslogic\\handler\\users\\querieshandler\\getusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|Cafe.BusinessLogic\\Cafe.BusinessLogic.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.businesslogic\\handler\\foods\\queryhandler\\getallfoodqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|Cafe.BusinessLogic\\Cafe.BusinessLogic.csproj|solutionrelative:cafe.businesslogic\\handler\\foods\\queryhandler\\getallfoodqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|Cafe.Api\\Cafe.Api.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|Cafe.Api\\Cafe.Api.csproj|solutionrelative:cafe.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|Cafe.Api\\Cafe.Api.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|Cafe.Api\\Cafe.Api.csproj|solutionrelative:cafe.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|Cafe.Api\\Cafe.Api.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.api\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|Cafe.Api\\Cafe.Api.csproj|solutionrelative:cafe.api\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|Cafe.Api\\Cafe.Api.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.api\\extensions\\startupextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|Cafe.Api\\Cafe.Api.csproj|solutionrelative:cafe.api\\extensions\\startupextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|Cafe.Api\\Cafe.Api.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E231A9F-DE06-4AE1-AFF3-C858C543A219}|Cafe.Api\\Cafe.Api.csproj|solutionrelative:cafe.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|Cafe.BusinessLogic\\Cafe.BusinessLogic.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.businesslogic\\handler\\categories\\queryhandler\\getallcategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|Cafe.BusinessLogic\\Cafe.BusinessLogic.csproj|solutionrelative:cafe.businesslogic\\handler\\categories\\queryhandler\\getallcategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0812FDCB-7ACC-4E87-BA4D-6A40F26F5851}|Cafe.Entities\\Cafe.Entities.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.entities\\dto\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0812FDCB-7ACC-4E87-BA4D-6A40F26F5851}|Cafe.Entities\\Cafe.Entities.csproj|solutionrelative:cafe.entities\\dto\\fooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0812FDCB-7ACC-4E87-BA4D-6A40F26F5851}|Cafe.Entities\\Cafe.Entities.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.entities\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0812FDCB-7ACC-4E87-BA4D-6A40F26F5851}|Cafe.Entities\\Cafe.Entities.csproj|solutionrelative:cafe.entities\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0812FDCB-7ACC-4E87-BA4D-6A40F26F5851}|Cafe.Entities\\Cafe.Entities.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.entities\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0812FDCB-7ACC-4E87-BA4D-6A40F26F5851}|Cafe.Entities\\Cafe.Entities.csproj|solutionrelative:cafe.entities\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0812FDCB-7ACC-4E87-BA4D-6A40F26F5851}|Cafe.Entities\\Cafe.Entities.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.entities\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0812FDCB-7ACC-4E87-BA4D-6A40F26F5851}|Cafe.Entities\\Cafe.Entities.csproj|solutionrelative:cafe.entities\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9AA2BD-D681-4CFB-AD3C-B47979850A00}|Cafe.DataAcces\\Cafe.DataAcces.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\cafe.dataacces\\migrations\\20240825104310_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9AA2BD-D681-4CFB-AD3C-B47979850A00}|Cafe.DataAcces\\Cafe.DataAcces.csproj|solutionrelative:cafe.dataacces\\migrations\\20240825104310_mig_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetUserByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.BusinessLogic\\Command\\Users\\Queries\\GetUserByIdQuery.cs",
+              "RelativeDocumentMoniker": "Cafe.BusinessLogic\\Command\\Users\\Queries\\GetUserByIdQuery.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.BusinessLogic\\Command\\Users\\Queries\\GetUserByIdQuery.cs",
+              "RelativeToolTip": "Cafe.BusinessLogic\\Command\\Users\\Queries\\GetUserByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:45:14.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.BusinessLogic\\Command\\Users\\Queries\\GetUserQuery.cs",
+              "RelativeDocumentMoniker": "Cafe.BusinessLogic\\Command\\Users\\Queries\\GetUserQuery.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.BusinessLogic\\Command\\Users\\Queries\\GetUserQuery.cs",
+              "RelativeToolTip": "Cafe.BusinessLogic\\Command\\Users\\Queries\\GetUserQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T10:43:33.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.BusinessLogic\\Handler\\Users\\CommandHandler\\UpdateUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "Cafe.BusinessLogic\\Handler\\Users\\CommandHandler\\UpdateUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.BusinessLogic\\Handler\\Users\\CommandHandler\\UpdateUserCommandHandler.cs",
+              "RelativeToolTip": "Cafe.BusinessLogic\\Handler\\Users\\CommandHandler\\UpdateUserCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:56:32.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetUserByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.BusinessLogic\\Handler\\Users\\QueriesHandler\\GetUserByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Cafe.BusinessLogic\\Handler\\Users\\QueriesHandler\\GetUserByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.BusinessLogic\\Handler\\Users\\QueriesHandler\\GetUserByIdQueryHandler.cs",
+              "RelativeToolTip": "Cafe.BusinessLogic\\Handler\\Users\\QueriesHandler\\GetUserByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:52:01.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetUsersQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.BusinessLogic\\Handler\\Users\\QueriesHandler\\GetUsersQueryHandler.cs",
+              "RelativeDocumentMoniker": "Cafe.BusinessLogic\\Handler\\Users\\QueriesHandler\\GetUsersQueryHandler.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.BusinessLogic\\Handler\\Users\\QueriesHandler\\GetUsersQueryHandler.cs",
+              "RelativeToolTip": "Cafe.BusinessLogic\\Handler\\Users\\QueriesHandler\\GetUsersQueryHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T14:52:40.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Cafe.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Cafe.Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAYwGEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:53:47.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Cafe.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Cafe.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T14:15:12.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Cafe.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Api\\appsettings.json",
+              "RelativeToolTip": "Cafe.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T14:15:08.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Api\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Cafe.Api\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Api\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Cafe.Api\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:40:58.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Api\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "Cafe.Api\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Api\\Controllers\\FileController.cs",
+              "RelativeToolTip": "Cafe.Api\\Controllers\\FileController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:33:56.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Entities\\Entities\\Food.cs",
+              "RelativeDocumentMoniker": "Cafe.Entities\\Entities\\Food.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Entities\\Entities\\Food.cs",
+              "RelativeToolTip": "Cafe.Entities\\Entities\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:01:09.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Entities\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Cafe.Entities\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Entities\\Entities\\Category.cs",
+              "RelativeToolTip": "Cafe.Entities\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:00:52.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FoodDto.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Entities\\Dto\\FoodDto.cs",
+              "RelativeDocumentMoniker": "Cafe.Entities\\Dto\\FoodDto.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Entities\\Dto\\FoodDto.cs",
+              "RelativeToolTip": "Cafe.Entities\\Dto\\FoodDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:54:19.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Entities\\Dto\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Cafe.Entities\\Dto\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Entities\\Dto\\CategoryDto.cs",
+              "RelativeToolTip": "Cafe.Entities\\Dto\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:38:45.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllFoodQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.BusinessLogic\\Handler\\Foods\\QueryHandler\\GetAllFoodQueryHandler.cs",
+              "RelativeDocumentMoniker": "Cafe.BusinessLogic\\Handler\\Foods\\QueryHandler\\GetAllFoodQueryHandler.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.BusinessLogic\\Handler\\Foods\\QueryHandler\\GetAllFoodQueryHandler.cs",
+              "RelativeToolTip": "Cafe.BusinessLogic\\Handler\\Foods\\QueryHandler\\GetAllFoodQueryHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:37:27.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllCategoryQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.BusinessLogic\\Handler\\Categories\\QueryHandler\\GetAllCategoryQueryHandler.cs",
+              "RelativeDocumentMoniker": "Cafe.BusinessLogic\\Handler\\Categories\\QueryHandler\\GetAllCategoryQueryHandler.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.BusinessLogic\\Handler\\Categories\\QueryHandler\\GetAllCategoryQueryHandler.cs",
+              "RelativeToolTip": "Cafe.BusinessLogic\\Handler\\Categories\\QueryHandler\\GetAllCategoryQueryHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:32:11.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240825104310_mig_1.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.DataAcces\\Migrations\\20240825104310_mig_1.cs",
+              "RelativeDocumentMoniker": "Cafe.DataAcces\\Migrations\\20240825104310_mig_1.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.DataAcces\\Migrations\\20240825104310_mig_1.cs",
+              "RelativeToolTip": "Cafe.DataAcces\\Migrations\\20240825104310_mig_1.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:30:01.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StartupExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Api\\Extensions\\StartupExtensions.cs",
+              "RelativeDocumentMoniker": "Cafe.Api\\Extensions\\StartupExtensions.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\Cafe.Api\\Extensions\\StartupExtensions.cs",
+              "RelativeToolTip": "Cafe.Api\\Extensions\\StartupExtensions.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:09:14.361Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

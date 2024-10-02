@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\kbys.businesslogic\\command\\foods\\command\\addfoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|solutionrelative:kbys.businesslogic\\command\\foods\\command\\addfoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\kbys.businesslogic\\command\\foods\\command\\updatefoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|solutionrelative:kbys.businesslogic\\command\\foods\\command\\updatefoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\kbys.businesslogic\\command\\users\\command\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|solutionrelative:kbys.businesslogic\\command\\users\\command\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\kbys.businesslogic\\command\\users\\command\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|solutionrelative:kbys.businesslogic\\command\\users\\command\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0812FDCB-7ACC-4E87-BA4D-6A40F26F5851}|KBYS.Entities\\KBYS.Entities.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\kbys.entities\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0812FDCB-7ACC-4E87-BA4D-6A40F26F5851}|KBYS.Entities\\KBYS.Entities.csproj|solutionrelative:kbys.entities\\entities\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\kbys.businesslogic\\command\\categories\\command\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|solutionrelative:kbys.businesslogic\\command\\categories\\command\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\kbys.businesslogic\\command\\categories\\command\\deletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|solutionrelative:kbys.businesslogic\\command\\categories\\command\\deletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\kbys.businesslogic\\command\\categories\\command\\addcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|solutionrelative:kbys.businesslogic\\command\\categories\\command\\addcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\kbys.businesslogic\\command\\foods\\command\\deletefoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|solutionrelative:kbys.businesslogic\\command\\foods\\command\\deletefoodcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0812FDCB-7ACC-4E87-BA4D-6A40F26F5851}|KBYS.Entities\\KBYS.Entities.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\kbys.entities\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0812FDCB-7ACC-4E87-BA4D-6A40F26F5851}|KBYS.Entities\\KBYS.Entities.csproj|solutionrelative:kbys.entities\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0812FDCB-7ACC-4E87-BA4D-6A40F26F5851}|KBYS.Entities\\KBYS.Entities.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\kbys.entities\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0812FDCB-7ACC-4E87-BA4D-6A40F26F5851}|KBYS.Entities\\KBYS.Entities.csproj|solutionrelative:kbys.entities\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|c:\\users\\yusuf\\onedrive\\masa\u00FCst\u00FC\\restorant-men\u00FC\\cafeapi\\kbys.businesslogic\\command\\users\\command\\addusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD266C1-0FBD-4B9F-BC05-BF3B0C697DAE}|KBYS.BusinessLogic\\KBYS.BusinessLogic.csproj|solutionrelative:kbys.businesslogic\\command\\users\\command\\addusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Users\\Command\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "KBYS.BusinessLogic\\Command\\Users\\Command\\UpdateUserCommand.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Users\\Command\\UpdateUserCommand.cs",
+              "RelativeToolTip": "KBYS.BusinessLogic\\Command\\Users\\Command\\UpdateUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:24:22.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Users\\Command\\DeleteUserCommand.cs",
+              "RelativeDocumentMoniker": "KBYS.BusinessLogic\\Command\\Users\\Command\\DeleteUserCommand.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Users\\Command\\DeleteUserCommand.cs",
+              "RelativeToolTip": "KBYS.BusinessLogic\\Command\\Users\\Command\\DeleteUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:24:20.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddFoodCommand.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Foods\\Command\\AddFoodCommand.cs",
+              "RelativeDocumentMoniker": "KBYS.BusinessLogic\\Command\\Foods\\Command\\AddFoodCommand.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Foods\\Command\\AddFoodCommand.cs",
+              "RelativeToolTip": "KBYS.BusinessLogic\\Command\\Foods\\Command\\AddFoodCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:22:06.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteFoodCommand.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Foods\\Command\\DeleteFoodCommand.cs",
+              "RelativeDocumentMoniker": "KBYS.BusinessLogic\\Command\\Foods\\Command\\DeleteFoodCommand.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Foods\\Command\\DeleteFoodCommand.cs",
+              "RelativeToolTip": "KBYS.BusinessLogic\\Command\\Foods\\Command\\DeleteFoodCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:22:03.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateFoodCommand.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Foods\\Command\\UpdateFoodCommand.cs",
+              "RelativeDocumentMoniker": "KBYS.BusinessLogic\\Command\\Foods\\Command\\UpdateFoodCommand.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Foods\\Command\\UpdateFoodCommand.cs",
+              "RelativeToolTip": "KBYS.BusinessLogic\\Command\\Foods\\Command\\UpdateFoodCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:21:47.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.Entities\\Entities\\Food.cs",
+              "RelativeDocumentMoniker": "KBYS.Entities\\Entities\\Food.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.Entities\\Entities\\Food.cs",
+              "RelativeToolTip": "KBYS.Entities\\Entities\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:20:20.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.Entities\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "KBYS.Entities\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.Entities\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "KBYS.Entities\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:20:08.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Categories\\Command\\UpdateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "KBYS.BusinessLogic\\Command\\Categories\\Command\\UpdateCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Categories\\Command\\UpdateCategoryCommand.cs",
+              "RelativeToolTip": "KBYS.BusinessLogic\\Command\\Categories\\Command\\UpdateCategoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:19:01.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Categories\\Command\\DeleteCategoryCommand.cs",
+              "RelativeDocumentMoniker": "KBYS.BusinessLogic\\Command\\Categories\\Command\\DeleteCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Categories\\Command\\DeleteCategoryCommand.cs",
+              "RelativeToolTip": "KBYS.BusinessLogic\\Command\\Categories\\Command\\DeleteCategoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:18:06.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.Entities\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "KBYS.Entities\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.Entities\\Entities\\Category.cs",
+              "RelativeToolTip": "KBYS.Entities\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:15:43.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Users\\Command\\AddUserCommand.cs",
+              "RelativeDocumentMoniker": "KBYS.BusinessLogic\\Command\\Users\\Command\\AddUserCommand.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Users\\Command\\AddUserCommand.cs",
+              "RelativeToolTip": "KBYS.BusinessLogic\\Command\\Users\\Command\\AddUserCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:15:15.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Categories\\Command\\AddCategoryCommand.cs",
+              "RelativeDocumentMoniker": "KBYS.BusinessLogic\\Command\\Categories\\Command\\AddCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\yusuf\\OneDrive\\Masa\u00FCst\u00FC\\Restorant-Men\u00FC\\CafeApi\\KBYS.BusinessLogic\\Command\\Categories\\Command\\AddCategoryCommand.cs",
+              "RelativeToolTip": "KBYS.BusinessLogic\\Command\\Categories\\Command\\AddCategoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:14:30.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

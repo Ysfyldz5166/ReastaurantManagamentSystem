@@ -1,0 +1,14 @@
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.Entities\bin\Debug\net8.0\Cafe.Entities.deps.json
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.Entities\bin\Debug\net8.0\Cafe.Entities.runtimeconfig.json
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.Entities\bin\Debug\net8.0\Cafe.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.Entities\bin\Debug\net8.0\Cafe.Entities.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.Entities\obj\Debug\net8.0\Cafe.Entities.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.Entities\obj\Debug\net8.0\Cafe.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.Entities\obj\Debug\net8.0\Cafe.Entities.AssemblyInfoInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.Entities\obj\Debug\net8.0\Cafe.Entities.AssemblyInfo.cs
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.Entities\obj\Debug\net8.0\Cafe.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.Entities\obj\Debug\net8.0\Cafe.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.Entities\obj\Debug\net8.0\refint\Cafe.Entities.dll
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.Entities\obj\Debug\net8.0\Cafe.Entities.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.Entities\obj\Debug\net8.0\Cafe.Entities.genruntimeconfig.cache
+C:\Users\yusuf\OneDrive\Masaüstü\Restorant-Menü\CafeApi\Cafe.Entities\obj\Debug\net8.0\ref\Cafe.Entities.dll
