@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cafe Home Page</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="banner">
+        <header>
+            <img src="../../../../assets/logo.png" alt="" class="logo" routerLink="">
+            
+            <div class="hamburger-menu" (click)="toggleMenu()">
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+            </div>
+    
+            <ul class="navbar" [class.active]="menuActive">
+                <li><a routerLink="">Ana Sayfa</a></li>
+                <li><a routerLink="#">Hakkımızda</a></li>
+                <li><a routerLink="#">İletişim</a></li>
+                <li><a routerLink="/admin">Admin Giriş</a></li>
+            </ul>
+    
+            <div class="h-right">
+                <div class="fas fa-home" style="color: beige; font-size: 24px;"></div>
+            </div>
+        </header>
+    
+        <div class="content">
+            <h1>MODA KAFE</h1>
+            <p>Kafemize Hoşgeldiniz. Menüyü Görmek için Tıklayınız.</p>
+            <div>
+                <button (click)="scrollToMenu()" type="button"><span></span>MENÜ</button>
+            </div>
+        </div>
+    </div>
+    
+    <div class="menu" #menuSection>
+        <app-menu></app-menu>
+    </div>
+    </body>
+
+</html>

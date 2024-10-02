@@ -1,0 +1,48 @@
+<div class="user-manage-container" *ngIf="!isLoading; else loading">
+  <h1>{{ isEditing ? 'Kullanıcıyı Düzenle' : 'Yeni Kullanıcı Ekle' }}</h1>
+
+  <form [formGroup]="userForm" (ngSubmit)="saveUser()">
+    <div class="form-group">
+      <label for="username">Kullanıcı Adı:</label>
+      <input id="username" formControlName="username" type="text" required />
+      <small *ngIf="userForm.get('username')?.invalid && (userForm.get('username')?.touched || userForm.get('username')?.dirty)">
+        Kullanıcı adı zorunludur.
+      </small>
+    </div>
+
+    <div class="form-group">
+      <label for="email">Email:</label>
+      <input id="email" formControlName="email" type="email" required />
+      <small *ngIf="userForm.get('email')?.invalid && (userForm.get('email')?.touched || userForm.get('email')?.dirty)">
+        Email geçerli değil.
+      </small>
+    </div>
+
+    <div class="form-group">
+      <label for="role">Rol:</label>
+      <input id="role" formControlName="role" required />
+      <small *ngIf="userForm.get('role')?.invalid && (userForm.get('role')?.touched || userForm.get('role')?.dirty)">
+        Rol zorunludur.
+      </small>
+    </div>
+
+    <div class="form-group">
+      <label for="password">Şifre:</label>
+      <input id="password" formControlName="password" type="password" required />
+      <small *ngIf="userForm.get('password')?.invalid && (userForm.get('password')?.touched || userForm.get('password')?.dirty)">
+        Şifre zorunludur.
+      </small>
+    </div>
+
+    <div class="form-actions">
+      <button type="submit" class="save-btn">Kaydet</button>
+      <button type="button" class="cancel-btn" (click)="cancel()">İptal</button>
+    </div>
+  </form>
+</div>
+
+<ng-template #loading>
+  <div class="loading">
+    <p>Yükleniyor...</p>
+  </div>
+</ng-template>

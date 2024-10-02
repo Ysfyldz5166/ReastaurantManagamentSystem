@@ -1,0 +1,81 @@
+:root {
+    --main-color: #009688;
+}
+
+.menu-page {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    width: 90%;
+    max-width: 1200px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.menu-category-card {
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+}
+
+.menu-category-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.menu-category-card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    background-color: var(--main-color);
+    transition: height 0.3s ease;
+    z-index: -1;
+}
+
+.menu-category-card:hover::before {
+    height: 100%;
+}
+
+.card-icon {
+    font-size: 50px;
+    color: var(--main-color);
+    text-align: center;
+    padding: 30px 0;
+    transition: color 0.3s ease;
+}
+
+.menu-category-card:hover .card-icon {
+    color: #fff;
+}
+
+.menu-category-card h3 {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    margin: 0;
+    padding: 10px 20px;
+    transition: color 0.3s ease;
+}
+
+.menu-category-card:hover h3 {
+    color: #fff;
+}
+
+.menu-category-card p {
+    text-align: center;
+    font-size: 16px;
+    color: #777;
+    padding: 0 20px 20px;
+    margin: 0;
+    transition: color 0.3s ease;
+}
+
+.menu-category-card:hover p {
+    color: #fff;
+}

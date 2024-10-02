@@ -1,0 +1,71 @@
+<div class="body">
+    <div class="container">
+        <!-- Sidebar -->
+        <aside [class.active]="isSidebarActive" id="sidebar">
+            <div class="top">
+                <div class="logo">
+                    <img src="../../../assets/logo.png" alt="Logo" />
+                </div>
+                <div class="hamburger" (click)="toggleSidebar()">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor"
+                        class="bi bi-list" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd"
+                            d="M2.5 12.5a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1h-10a.5.5.5 0 0 1-.5-.5zm0-4a.5.5.5 0 0 1 .5-.5h10a.5.5.5 0 0 1 0 1h-10a.5.5.5 0 0 1-.5-.5zm0-4a.5.5.5 0 0 1 .5-.5h10a.5.5.5 0 0 1 0 1h-10a.5.5.5 0 0 1-.5-.5z" />
+                    </svg>
+                </div>
+            </div>
+
+            <nav class="menu">
+                <ul>
+                    <li>
+                        <a routerLink="/admin">
+                            <i class="icon-dashboard"></i>
+                            <span>Dashboard</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a routerLink="user/list">
+                            <i class="icon-user"></i>
+                            <span>User</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a routerLink="category">
+                            <i class="icon-category"></i>
+                            <span>Category</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+
+            <!-- Logout Button -->
+            <div class="logout-btn-container">
+                <button (click)="logout()">
+                    <i class="icon-logout"></i> <!-- İkonu ekledik -->
+                    <span>Çıkış Yap</span>
+                </button>
+            </div>
+
+        </aside>
+
+        <!-- Main section -->
+        <main>
+            <div class="hamburger" (click)="toggleSidebar()">
+                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-list"
+                    viewBox="0 0 16 16">
+                    <path fill-rule="evenodd"
+                        d="M2.5 12.5a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1h-10a.5.5.5 0 0 1-.5-.5zm0-4a.5.5.5 0 0 1 .5-.5h10a.5.5.5 0 0 1 0 1h-10a.5.5.5 0 0 1-.5-.5zm0-4a.5.5.5 0 0 1 .5-.5h10a.5.5.5 0 0 1 0 1h-10a.5.5.5 0 0 1-.5-.5z" />
+                </svg>
+            </div>
+            <router-outlet></router-outlet>
+        </main>
+
+        <!-- Right section -->
+        <div class="right">
+            <h1>Right Section</h1>
+        </div>
+    </div>
+
+    <!-- Overlay -->
+    <div class="overlay" *ngIf="isSidebarActive" (click)="toggleSidebar()"></div>
+</div>

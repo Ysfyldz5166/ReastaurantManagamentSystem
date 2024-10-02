@@ -1,0 +1,362 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    list-style: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+}
+
+:root {
+    --text-color: #fff;
+    --bg-color: #000;
+    --main-color: #ffa343;
+}
+
+body {
+    color: var(--text-color);
+    background: var(--bg-color);
+}
+
+/* Header ayarları */
+header {
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    width: 100%;
+    padding: 27px 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: transparent;
+    transition: all .50s ease;
+}
+
+.logo {
+    color: var(--text-color);
+    width: 120px;
+    margin: 0 0 0 10px;
+    cursor: pointer;
+}
+
+/* Hamburger menü */
+.hamburger-menu {
+    display: none;
+    cursor: pointer;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 20px;
+}
+
+.hamburger-menu .bar {
+    height: 3px;
+    width: 25px;
+    background-color: #fff;
+    margin: 3px 0;
+    transition: 0.4s;
+}
+
+/* Navbar ayarları */
+.navbar {
+    width: 85%;
+    margin: auto;
+    padding: 35px 0 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 40px;
+    position: relative;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    transition: all .50s ease;
+}
+
+.navbar li::after {
+    content: '';
+    height: 3px;
+    width: 0;
+    background: #009688;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 0.5s;
+}
+
+.navbar li:hover::after {
+    width: 100%;
+}
+
+.h-right .fa-home {
+    font-size: 24px;
+    color: beige;
+}
+
+.banner {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../../../../assets/anasayfafoto.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+.content {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #fff;
+    z-index: 2;
+}
+
+.content h1 {
+    font-size: 70px;
+    margin-top: 80px;
+}
+
+.content p {
+    margin: 20px auto;
+    font-weight: 100;
+    line-height: 25px;
+}
+
+button {
+    width: 150px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #009688;
+    background: transparent;
+    color: #fff;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+span {
+    background: #009688;
+    height: 100px;
+    width: 0;
+    border-radius: 25px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: 0.5s;
+}
+
+button:hover span {
+    width: 100%;
+}
+
+button:hover {
+    border: none;
+}
+
+.menu {
+    padding: 40px 0;
+    background-color: rgba(0, 0, 0, 0.75);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../../../../assets/anasayfafoto.jpg);
+    position: relative;
+    z-index: 2;
+}
+
+.menu-page {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    width: 90%;
+    max-width: 1200px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.menu-category-card {
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+}
+
+.menu-category-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.menu-category-card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    background-color: var(--main-color);
+    transition: height 0.3s ease;
+    z-index: -1;
+}
+
+.menu-category-card:hover::before {
+    height: 100%;
+}
+
+.card-icon {
+    font-size: 50px;
+    color: var(--main-color);
+    text-align: center;
+    padding: 30px 0;
+    transition: color 0.3s ease;
+}
+
+.menu-category-card:hover .card-icon {
+    color: #fff;
+}
+
+.menu-category-card h3 {
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    margin: 0;
+    padding: 10px 20px;
+    transition: color 0.3s ease;
+}
+
+.menu-category-card:hover h3 {
+    color: #fff;
+}
+
+.menu-category-card p {
+    text-align: center;
+    font-size: 16px;
+    color: #777;
+    padding: 0 20px 20px;
+    margin: 0;
+    transition: color 0.3s ease;
+}
+
+.menu-category-card:hover p {
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    header {
+        padding: 20px 5%;
+    }
+
+    .logo {
+        width: 100px;
+        margin: 0 0 0 5px;
+    }
+
+    .navbar {
+        position: fixed;
+        right: 0;
+        top: 0;
+        height: 100vh;
+        width: 100%;
+        flex-direction: column;
+        background-color: rgba(0, 0, 0, 0.9);
+        transform: translateX(100%);
+        transition: transform 0.4s ease-in-out;
+        padding-top: 60px;
+        z-index: 999;
+    }
+
+    .navbar.active {
+        transform: translateX(0);
+    }
+
+    .navbar li {
+        margin: 15px 0;
+    }
+
+    .navbar li a {
+        color: #fff;
+        font-size: 20px;
+    }
+
+    .hamburger-menu {
+        display: flex;
+        z-index: 1000;
+    }
+
+    .h-right {
+        display: none;
+    }
+
+    .content h1 {
+        font-size: 50px;
+    }
+
+    button {
+        width: 120px;
+        padding: 10px 0;
+    }
+}
+
+@media (max-width: 480px) {
+    header {
+        flex-direction: row;
+        justify-content: space-between; 
+        align-items: center;
+        padding: 15px 5%;
+    }
+
+    .hamburger-menu {
+        order: 2; 
+    }
+
+    .logo {
+        order: 1; 
+        margin-left: 0;
+    }
+
+    .navbar {
+        padding: 20px 0;
+    }
+
+    .navbar li {
+        margin: 10px 0;
+    }
+
+    .content h1 {
+        font-size: 40px;
+    }
+
+    .content p {
+        line-height: 20px;
+        font-size: 14px;
+    }
+
+    button {
+        width: 100px;
+        padding: 8px 0;
+    }
+
+    .h-right .fa-home {
+        font-size: 18px;
+    }
+}

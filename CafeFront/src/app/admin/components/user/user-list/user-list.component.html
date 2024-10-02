@@ -1,0 +1,31 @@
+<div class="user-list-container" *ngIf="!isLoading; else loading">
+    <h1>Kayıtlı Kullanıcılar</h1>
+    <div class="actions">
+      <button (click)="navigateToAddUser()">Yeni Kullanıcı Ekle</button>
+    </div>
+    <div class="users">
+      <div class="user-card" *ngFor="let user of users">
+        <div class="avatar">
+          <img src="https://via.placeholder.com/150" alt="User Avatar" />
+        </div>
+        <div class="user-info">
+          <h2>{{ user.username }}</h2>
+          <p>{{ user.role }}</p>
+
+          <p>{{ user.email }}</p>
+          <p>Kullanıcı ID: {{ user.id }}</p>
+          <div class="user-actions">
+            <button (click)="editUser(user.id)" class="edit-btn">Düzenle</button>
+            <button (click)="deleteUser(user.id)" class="delete-btn">Sil</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <ng-template #loading>
+    <div class="loading">
+      <p>Yükleniyor...</p>
+    </div>
+  </ng-template>
+  
